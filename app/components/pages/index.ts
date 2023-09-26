@@ -1,0 +1,5 @@
+export {Hello} from './Hello'
+export {About} from './About'
+export {Contact} from './Contact'
+export  {Experience} from './Experience'
+export {Skill} from './Skill'
